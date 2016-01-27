@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Learning to Code: Deciding on What and How to Learn"
+date:   2016-01-26 22:56:06 -0500
+categories: learning to code
+---
+
+A few months ago, I made the decision to take a few months off to finally learn to code. After a lot of research into different programs, and completing a ton of prep work in two different languages (ruby and javascript), I finally kicked off with Hackreactor's intensive 13-week program on January 11th. Here's a bit of background on how I got here:
+
+Choosing a Language
+
+When I first started exploring how to learn to code, the first decision I had to make was: learn to code what? I made the mistake of typing "what language should I learn to code in" into the Google search box, and I was dragged into a sea of strong opinions, all at odds with each other. C is the only language to properly learn to code. C is for grandparents. Javascript is the best because it's the most used. Javascript is stupid because it's so different from everything else. Ruby is the best! Ruby is dying! Python! Scala! Go! Swift! After a couple of hours of research I almost decided to scrap the whole coding thing. It seemed like whatever I language I eventually chose I would inevitably suffer from heaps of FOMO for not having learned another 20 other languages that were just as good or better. And then I happened upon a nugget of wisdom hidden under all the debate: **it doesn't really matter what language you learn**. What's important is taking the time to learn the concepts, paradigms, etc in *any* language. Once you become proficient in one programming language, picking up a second one is orders of magnitude simpler. So then it just came down to what I wanted to be able to do immediately after I learned to code, and what set of tools would give me the ability to do that in the least amount of time. 
+
+Goals. Why learn to code?
+
+Everyone has different reasons to learn to code. For me, the main goal was being able to prototype ideas and day-to-day tools to make my work and personal lives better. I also happen to believe that everyone should learn to code at some point in their lives, and this is that point for me. As soon as I achieved the clarity of purpose to know *what* I wanted to be able to do with code, I hit another roadblock. Learning to code, as it happens, isn't like learning to drive a car or cook spaghetti. You don't learn *one* thing and you're good for the rest of your life. Learning to code is learning to do many things, and it take years (decades?) to really become a good software developer. This image is probably what freaked me out the most about this fact:
+
+Shit. I'm never going to learn to code. Just look at that tree! This is futile and useless, I should quit. Except, the statement that came with the picture above is not entirely true. Sure, if you want to be the CTO of a large software company or want to build complex, scalable applications you need to master a lot of things on that tree. But no one starts by learning the whole tree. With all the tools available today to simplify a developer's life (AWS, Heroku, Parse, etc) you can do a LOT with just a couple of those branches. So I decided I would start by learning a backend language for server "stuff", and the CSS, HTML, Javascript trifecta for front-end web development. That way, I would at least be able to build any kind of project I could come up with as long as it lived on the web and was relatively simple. 
+
+Ruby on Rails
+
+Once I decided I wanted to learn a straightforward backend language that would allow me to quickly prototype projects, landing on Ruby wasn't hard. It is generally the first language anyone will suggest for someone wanting to learn to code because it has a great community and a clear, easy to understand syntax. And thanks to the power of the Rails framework, it has become one of the most popular back-end languages for building on the Web. Awesome. I started doing the Web Development prep work at Flatiron School's learn.co and signed up for a Web Development class at Thinkful, both highly recommended. Along the way though - after having finished all of the pre-work - I started to feel overwhelmed by learning so many things at the same time. I picked Ruby up fairly well after a couple of weeks, but when it came time to use Rails and put it together with HTML, CSS and Javascript it felt like I was trying to do too much as a beginner by learning 4 different things. When I brought this up with a developer friend, he suggested I scrap Ruby altogether in favor of "full stack Javascript". I didn't love the idea of changing languages so late in the game, but decided to take a look anyway. 
+
+JS & Node.js
+
+Javascript is by far the most popular language used in GitHub repositories. It is that popular, because it is the default programming language for the Web. Javascript is present in 92.5% of all websites as of Jan 2016. Whatever language I chose for the back-end, I would eventually have to get familiar with Javascript if I wanted to be able to build fully-functioning Web apps. But it turns out that as of very recently, it is also possible to use Javascript to build robust server-side (back-end) Web applications thanks to a runtime-environment developed in 2009 called Node.js that is rapidly gaining popularity among developers. One language for both back-end AND front-end development? Sold. I would say bye to Ruby and become a full-stack Javascript developer.
+
+Enter Hackreactor
+
+After finally settling on fullstack Javascript, Hackreactor quickly became the default choice for the way I wanted to learn to code. I had decided I needed an intensive "bootcamp" style program so I could focus on this exclusively, and I wanted a proven program that had already successfully graduated many classes of programmers. Hackreactor had only stellar reviews from past participants, and I loved their hands-on project-based approach. So far, the program has been awesome and it seems like I made the right choice. In future posts I'll talk about what I did to prepare for Hackreactor and what I've been doing to be more successful as I go through the program. 
