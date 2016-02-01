@@ -5,8 +5,6 @@ date:   2016-01-26 22:56:06 -0500
 categories: learning to code
 ---
 
-## Learning to Code: Deciding on What and How to Learn
-
 A few months ago, I made the decision to take a few months off to finally learn to code. After a lot of research into different programs, and completing a ton of prep work in two different languages (ruby and javascript), I finally kicked off with Hackreactor's intensive 13-week program on January 11th. Here's a bit of background on how I got here:
 
 #### Choosing a Language
